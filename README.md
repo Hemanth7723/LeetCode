@@ -6,23 +6,25 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 2
+- Total problems solved: 3
 - Easy problems: 1
-- Medium problems: 1
+- Medium problems: 2
 - Hard problems: 0
-- Languages used: 1
+- Languages used: 2
 - Last submission date: July 23, 2026
 
 ## Recent Solutions
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Search a 2D Matrix II](medium/search-a-2d-matrix-ii/README.md) | Medium | Java | [Code](medium/search-a-2d-matrix-ii/solution.java) | Jul 23, 2026 |
 | [Search a 2D Matrix II](medium/search-a-2d-matrix-ii/README.md) | Medium | C++ | [Code](medium/search-a-2d-matrix-ii/solution.cpp) | Jul 23, 2026 |
 | [Two Sum](easy/two-sum/README.md) | Easy | C++ | [Code](easy/two-sum/solution.cpp) | Jul 23, 2026 |
 
 ## Language Breakdown
 
 - C++: 2
+- Java: 1
 
 ## Topic Progress
 
