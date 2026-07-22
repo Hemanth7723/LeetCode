@@ -4,11 +4,17 @@ class Solution {
         int j=0;
         int m = matrix.length;
         int n = matrix[i].length;
-        for(i=0;i<m;i++){
-            for(j=0;j<n;j++){
-                if(matrix[i][j]==target){
-                    return true;
-                }
+        if(matrix[i][j]>target){
+                   return false;
+            }
+        while (matrix[i][j]<target){
+            i++;
+            if(matrix[i][j]==target){
+                return true;
+            }
+            j++;
+            if(matrix[i][j]==target){
+                return true;
             }
         }
         return false;
