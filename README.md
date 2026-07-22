@@ -6,9 +6,9 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 1
+- Total problems solved: 2
 - Easy problems: 1
-- Medium problems: 0
+- Medium problems: 1
 - Hard problems: 0
 - Languages used: 1
 - Last submission date: July 23, 2026
@@ -17,11 +17,12 @@ A record of my data structures and algorithms practice. This repository is autom
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Search a 2D Matrix II](medium/search-a-2d-matrix-ii/README.md) | Medium | C++ | [Code](medium/search-a-2d-matrix-ii/solution.cpp) | Jul 23, 2026 |
 | [Two Sum](easy/two-sum/README.md) | Easy | C++ | [Code](easy/two-sum/solution.cpp) | Jul 23, 2026 |
 
 ## Language Breakdown
 
-- C++: 1
+- C++: 2
 
 ## Topic Progress
 
